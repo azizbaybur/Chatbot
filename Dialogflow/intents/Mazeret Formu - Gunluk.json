@@ -1,0 +1,97 @@
+{
+  "id": "c54609e3-2207-4be2-aca4-187482dc2924",
+  "name": "Mazeret Formu - Gunluk",
+  "auto": true,
+  "contexts": [
+    "mazeret-gunluk"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "mazeret-gunluk",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f0ee770f-39b7-42c3-9f54-3228486842fe",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "form_tipi",
+          "value": "gunluk_mazeret",
+          "isList": false
+        },
+        {
+          "id": "bda49a81-cb89-4828-9ba8-6e94cf7e883b",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "sicil_no_gunluk",
+          "value": "$sicil_no_gunluk",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Günlük Mazeret için Sicil no, İzin başlangıç tarihi ve İş başı tarihini örnekteki gibi arada birer boşluk bırakarak giriniz. (ÖRNEK: 8832 bugün yarın, ÖRNEK: 8832 01.01.2019 02.01.2019)\nTeker teker girmek için sadece Sicil no giriniz. İptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "09700e32-1e20-4bf7-85af-e04eb0765bbf",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "baslangic_tarihi_gunluk",
+          "value": "$baslangic_tarihi_gunluk",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarasını kaydettim. İzin başlangıç tarihi belirtiniz. (ÖRNEK: 01.01.2019 / dün / bugün / yarın)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0bf40043-96b3-4f39-ae5f-46e6ac4f76d3",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "bitis_tarihi_gunluk",
+          "value": "$bitis_tarihi_gunluk",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarası ve İzin başlangıç tarihini kaydettim. İş başı tarihi belirtiniz. (ÖRNEK: 01.01.2019 / dün / bugün / yarın)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "6a7d42ff-bd9e-4489-a4c4-dc380582a3ad",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "onay_durumu",
+          "value": "$onay_durumu",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "$sicil_no_gunluk sicil numarası için İzin başlangıç tarihi: $baslangic_tarihi_gunluk, İş başı tarihi: $bitis_tarihi_gunluk olacak şekilde Günlük Mazeret talebinizi oluşturuyorum?\nOnaylamak için ONAY, iptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "skype": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

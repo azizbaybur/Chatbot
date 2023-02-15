@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8b5e5585-ab36-47a9-a765-73836c3aff11",
+    "data": [
+      {
+        "text": "eğitim talep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c981c246-5972-468b-81f3-9d9564736e37",
+    "data": [
+      {
+        "text": "eğitim talebi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

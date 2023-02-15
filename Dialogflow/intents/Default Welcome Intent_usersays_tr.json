@@ -1,0 +1,567 @@
+[
+  {
+    "id": "84e67153-59f9-4750-8ba3-0216393e7dc3",
+    "data": [
+      {
+        "text": "sea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "279eac26-625a-4d5c-9215-af980bfa47d0",
+    "data": [
+      {
+        "text": "cucu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fb203e5-7d13-4e91-b6e0-7766442521e3",
+    "data": [
+      {
+        "text": "olur",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ffe45b0-7d89-427e-8534-921a0a16389b",
+    "data": [
+      {
+        "text": "merhaba",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 22,
+    "updated": 0
+  },
+  {
+    "id": "d4cb3c24-777d-42ff-b050-dfe7a384c9f7",
+    "data": [
+      {
+        "text": "ordamısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "216f9621-b429-42fd-ad5e-dc11bb464907",
+    "data": [
+      {
+        "text": "orada mısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1882fdc8-fdb3-44ce-8de4-d9de355e7dbe",
+    "data": [
+      {
+        "text": "kanka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "0ccaeb49-25d1-44a9-ba33-175814aebc28",
+    "data": [
+      {
+        "text": "kardo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f490bec0-495e-439c-8db0-08aa86c7357f",
+    "data": [
+      {
+        "text": "aloooo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0af83586-d014-4b20-b6b5-a825e8767870",
+    "data": [
+      {
+        "text": "orda mısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44efad7a-d762-4dbc-89a0-c3a98ae13bec",
+    "data": [
+      {
+        "text": "huu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8dc1551f-75d0-424c-b20e-421ea5c0ff4a",
+    "data": [
+      {
+        "text": "selam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "e99b1380-86da-4120-b029-a41a6604c852",
+    "data": [
+      {
+        "text": "hacı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "59a89cba-b79b-4473-aa15-d480ad4c1a7b",
+    "data": [
+      {
+        "text": "jojoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf8cb5c7-5ec6-47f4-b8f0-79bf5bb6bb04",
+    "data": [
+      {
+        "text": "jojo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "84a35217-79d6-4532-b6e1-32b564d2ceed",
+    "data": [
+      {
+        "text": "sellam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44f3c11a-4dc3-4c4b-9ab5-067b370c5d1f",
+    "data": [
+      {
+        "text": "houu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "4e433869-9bf9-4533-b4b0-b5066070c1b8",
+    "data": [
+      {
+        "text": "sellamun aleykum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "c2b9b8a0-a0a8-4939-b25a-f6df9325cb51",
+    "data": [
+      {
+        "text": "selam diyom selam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "42ef7f6a-4047-488d-8dd8-04641aac6fb1",
+    "data": [
+      {
+        "text": "mrb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 11,
+    "updated": 0
+  },
+  {
+    "id": "83ac3799-52c0-46c6-bf22-b1eb84631c18",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "updated": 0
+  },
+  {
+    "id": "adda769b-6865-4ef4-8f79-65c9d7461899",
+    "data": [
+      {
+        "text": "hi",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "d2b8a658-a37f-4bd5-90fd-70dab3c34640",
+    "data": [
+      {
+        "text": "İyi günler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "bbcf077a-a05e-4a0e-90a4-7e96c2996613",
+    "data": [
+      {
+        "text": "Merb",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "updated": 0
+  },
+  {
+    "id": "2255c3de-e4ae-43d9-8711-c33e061a84fd",
+    "data": [
+      {
+        "text": "Mer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "048ff14a-3537-49f4-96f7-b0733e3d89ef",
+    "data": [
+      {
+        "text": "Merh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "ede1fbf7-d9c7-4c3c-a24a-1044de0feb6e",
+    "data": [
+      {
+        "text": "slm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "updated": 0
+  },
+  {
+    "id": "a7c307d7-0c04-41d5-a931-cf83b02c2bad",
+    "data": [
+      {
+        "text": "selm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "updated": 0
+  },
+  {
+    "id": "d80770cb-314a-40a0-a79c-321f6b077728",
+    "data": [
+      {
+        "text": "şelam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "49b4896c-85d9-4d37-9cc2-f27d25dbb06d",
+    "data": [
+      {
+        "text": "cocuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "1a41e759-c7f1-4105-b98b-6c15586b8eda",
+    "data": [
+      {
+        "text": "çocu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "b5d61612-d3e7-4dbf-89bb-b0ba25243233",
+    "data": [
+      {
+        "text": "çocuk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "updated": 0
+  },
+  {
+    "id": "ba1f9489-fcda-4494-bed2-ddb5dfea6962",
+    "data": [
+      {
+        "text": "Pardon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 60,
+    "updated": 0
+  },
+  {
+    "id": "d814af45-d77f-4459-8102-e41f1e3af7d5",
+    "data": [
+      {
+        "text": "slam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "6eccaade-ac31-42fd-aec2-79dc05de3072",
+    "data": [
+      {
+        "text": "haci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "f5bd2ccd-79ad-406e-a337-55d68411a62a",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e6b21116-ecdb-4cda-a036-172994688683",
+    "data": [
+      {
+        "text": "Knk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ed62974e-f39a-4391-8fbb-bbd75da6d7d4",
+    "data": [
+      {
+        "text": "kankam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "05cd5bf5-c082-4347-9bb2-6872b37a4d1b",
+    "data": [
+      {
+        "text": "reis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e8e95743-77cb-46a4-821f-5425ccc7ed96",
+    "data": [
+      {
+        "text": "Nasın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d5955eea-877b-4db3-bc54-f9b7b4035e51",
+    "data": [
+      {
+        "text": "ne güzel bir gün",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "bc00537c-feea-4bf8-9905-57de6431c4c9",
+    "data": [
+      {
+        "text": "dostum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e8cab5ac-6cd3-4d9c-b8d9-f9855254298b",
+    "data": [
+      {
+        "text": "tünaydın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "fea1c672-185d-4973-80f6-0a859e3e04b4",
+    "data": [
+      {
+        "text": "yüzünü gören cennetlik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "b27e2ce0-faa9-466b-8147-a1328f318d89",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a8a5fd3d-caa8-4e54-9519-4aff8bca682b",
+    "data": [
+      {
+        "text": "selamlar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ccc381c2-2b44-49be-b4ea-5596e4c48ad7",
+    "data": [
+      {
+        "text": "naber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

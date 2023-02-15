@@ -1,0 +1,42 @@
+{
+  "id": "a6f72a8d-17f3-466e-965b-d596edce12c6",
+  "name": "Yetenek/Kabiliyet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "skype",
+          "lang": "tr",
+          "title": "Dilerseniz aşağıdaki konularda yardımcı olabilirim.",
+          "replies": [
+            "Mazeret İzni Formu",
+            "Yıllık İzin Formu",
+            "Dahili Uygulamalar",
+            "Kim Kimdir?",
+            "Ne Nerede?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Şimdilik yazılı iletişim kurabiliyorum. Diğerlerini yaratıcımdan sorgulayabilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

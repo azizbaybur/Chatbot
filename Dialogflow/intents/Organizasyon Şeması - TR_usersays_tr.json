@@ -1,0 +1,36 @@
+[
+  {
+    "id": "5a0ade78-63f4-4f88-ae7d-1fe2e9876aad",
+    "data": [
+      {
+        "text": "Turkiye",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Organizasyon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1c215f46-9f0d-4ab1-9763-5b0668fd649e",
+    "data": [
+      {
+        "text": "Türkiye",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Organizasyon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

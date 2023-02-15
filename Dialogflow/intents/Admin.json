@@ -1,0 +1,30 @@
+{
+  "id": "7409f5ed-cc2e-46a1-85c4-d19ea92ec6b7",
+  "name": "Admin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Sistem Admini Dilara Patkavak; \u003cDilara.Patkavak@kordsa.com\u003e, Global Bilgi Teknolojileri Müdürlüğü\u0027nde Yazılım Analisti olarak çalışmaktadır.",
+            "Yaratıcım Dilara Patkavak; \u003cDilara.Patkavak@kordsa.com\u003e Global Bilgi Teknolojileri Müdürlüğü\u0027nde Yazılım Analisti olarak çalışmaktadır."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "a5a421a6-eb4b-42db-a868-f57af85bfdd0",
+    "data": [
+      {
+        "text": "Ne Nerede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6b3d9fe-96b9-4ffb-b1de-ae597d73c226",
+    "data": [
+      {
+        "text": "toplantı odaları",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c853d8bf-5a2c-46c2-9e92-372e0df33bf6",
+    "data": [
+      {
+        "text": "Uludag",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbb0bf0f-1df1-4d10-8f18-30e2c0faaf70",
+    "data": [
+      {
+        "text": "Aziz",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "db8ea199-3ac2-4f6c-9400-5d4ec210fb5f",
+    "data": [
+      {
+        "text": "aziz",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17d66590-da2d-4baa-b925-f6b4fbe9ceef",
+    "data": [
+      {
+        "text": "Nerede?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "471b9d01-76e6-4ca9-b5f5-f10c72439f9e",
+    "data": [
+      {
+        "text": "urfa",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13a6c81f-9acc-45e1-a62d-31699d5f9ad4",
+    "data": [
+      {
+        "text": "Urfa",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ede927cc-00ae-466e-b3f5-a13c10a67c3b",
+    "data": [
+      {
+        "text": "sahası",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0880de3-4e0f-44af-98c6-3055641b773a",
+    "data": [
+      {
+        "text": "toplantı odası",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fd1ab54-9569-49f7-a23d-e0f9952995b7",
+    "data": [
+      {
+        "text": "hgakjsgd",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "720a403c-4ad5-4a7f-ba65-7821859754af",
+    "data": [
+      {
+        "text": "Nerede",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

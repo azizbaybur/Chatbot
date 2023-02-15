@@ -1,0 +1,99 @@
+[
+  {
+    "id": "00fdc043-a8fb-4088-b931-dd64fbda5fac",
+    "data": [
+      {
+        "text": "Saatlik Mazeret",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  },
+  {
+    "id": "6b8faf4e-14db-487b-9099-9d329c7a9687",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_saatlik",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "baemeavn",
+        "alias": "baslangic_tarihi_saatlik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "88.88",
+        "alias": "baslangic_saati_saatlik",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "99.99",
+        "alias": "bitis_saati_saatlik",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "3be03ed9-581a-4e83-9ec4-f6d1fd15bffa",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_saatlik",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "55.66.7777",
+        "alias": "baslangic_tarihi_saatlik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "88:88",
+        "alias": "baslangic_saati_saatlik",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "99:99",
+        "alias": "bitis_saati_saatlik",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

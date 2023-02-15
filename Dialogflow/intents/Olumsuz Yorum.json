@@ -1,0 +1,35 @@
+{
+  "id": "92943930-43b1-42fb-a184-439f424e56a3",
+  "name": "Olumsuz Yorum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Ama çok ayıp.",
+            "Teessüf ederim.",
+            "Bu sözleri size yakıştıramadım.",
+            "Bu çok yanlış.",
+            "Birbirimizi kırmayalım.",
+            "Bunu duymamış olayım.",
+            "Beni çok üzdünüz şu an."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

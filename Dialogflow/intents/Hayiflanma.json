@@ -1,0 +1,30 @@
+{
+  "id": "2558b5a2-ee89-4130-af3f-57a0fa430a49",
+  "name": "Hayiflanma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Ama lütfen söyler misiniz ?",
+            "Anlamamış olamaz mıyım ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

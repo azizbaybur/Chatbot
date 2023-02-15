@@ -1,0 +1,35 @@
+[
+  {
+    "id": "67d4d9ec-5621-4c84-a929-2165961aafe7",
+    "data": [
+      {
+        "text": "İç uygulamalar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e11f63a-2334-44b2-ab6d-33535663ed97",
+    "data": [
+      {
+        "text": "Uygulamalar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "95ae2d34-2286-45f1-88e3-8815622d74af",
+    "data": [
+      {
+        "text": "Dahili Uygulamalar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

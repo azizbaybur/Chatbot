@@ -1,0 +1,32 @@
+{
+  "id": "37767a6f-22f6-4a0b-b1d7-350f3f0a79b1",
+  "name": "Konuşmayı Sonlandırma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Görüşürüz.",
+            "Kendinize dikkat edin.",
+            "Bye bye.",
+            "Tekrar görüşmek dileğiyle."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

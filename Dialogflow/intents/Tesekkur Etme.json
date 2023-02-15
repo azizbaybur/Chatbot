@@ -1,0 +1,31 @@
+{
+  "id": "c3f26b2d-a832-4830-a9b0-9a622098489e",
+  "name": "Tesekkur Etme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Rica Ederim.",
+            "Ne demek.",
+            "Lafı bile olmaz."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

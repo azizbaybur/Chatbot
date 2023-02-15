@@ -1,0 +1,27 @@
+{
+  "id": "c6aa5164-4063-4ca0-ab13-d89ec2d1575f",
+  "name": "İşe Alım Önerisi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Kordsa İlanları için; ilgili adayın başvuru yaptığı platformu ve isim soyisim bilgisini ilgili İK Uzmanı ile paylaşarak önerebilirsiniz. Elden veya e-mail ile CV paylaşılması Kişisel Verilerin Korunması Kanunu kapsamında uygun değildir.\nDiğer Grup şirketlerinin ilanları için; Kordsa Intranet üzerindeki Sabancı Holding Intranet \u003ca href\u003d\"https://saport.sabanci.com/tr-tr/Sayfalar/AnaSayfa.aspx\"\u003eSAPORT\u003c/a\u003e sistemi aracılığıyla aday önerebilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

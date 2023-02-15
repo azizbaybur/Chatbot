@@ -1,0 +1,27 @@
+{
+  "id": "70040aa4-7893-46d1-8cca-faf176fb080d",
+  "name": "SPP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "SPP sistemine giriş için \u003ca href\u003d\"http://spp.kordsaglobal.com/\"\u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: Bilgisayar kullanıcı adınız, Şifre: Bilgisayar açılış şifrenizdir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

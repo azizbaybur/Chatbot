@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6764f85d-a754-4a37-bce9-584b832995c7",
+    "data": [
+      {
+        "text": "Centrum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4a01573f-a0a6-4bef-a7a1-6a07df4241fd",
+    "data": [
+      {
+        "text": "SHE Centrum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af61118e-a918-4208-95a4-f8ede642a056",
+    "data": [
+      {
+        "text": "SHE",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

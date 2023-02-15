@@ -1,0 +1,27 @@
+{
+  "id": "d3bb8f10-fe7f-464f-8d3c-b06f856cac7f",
+  "name": "Toplantı Odalari",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Toplantı odalarının yerlerini görüntülemek için \u003ca href\u003d\"https://kordsaglobal-my.sharepoint.com/personal/fileport_kordsaglobal_com/Documents/Jojo%20Share/TOPLANTI%20ODALARI%20YER%20PLANI-Model.pdf\" \u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

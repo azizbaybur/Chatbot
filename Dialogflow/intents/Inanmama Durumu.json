@@ -1,0 +1,31 @@
+{
+  "id": "cedf1232-7941-4c9c-adf2-490d170493af",
+  "name": "Inanmama Durumu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "İstirham ederim.",
+            "Bana güvenmelisiniz.",
+            "Gerçekten kırdınız beni şu an."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "id": "3b4493d5-1e4d-471c-8ef1-8c58b0faf1a2",
+    "data": [
+      {
+        "text": "Yillik Izin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4f823fb-d065-4268-b8e4-20a7c97c3623",
+    "data": [
+      {
+        "text": "Yıllık İzin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b7c9345-68c9-4334-abea-3fb3d9324bcc",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_yillik",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "77.77.7777",
+        "alias": "baslangic_tarihi_yillik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jkhkasdk",
+        "alias": "bitis_tarihi_yillik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "EVET",
+        "alias": "avans_durumu",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60efcc92-4a02-4740-a970-9a7f9fce8183",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_yillik",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "uasgduaysdg",
+        "alias": "baslangic_tarihi_yillik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "88.88.8888",
+        "alias": "bitis_tarihi_yillik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HAYIR",
+        "alias": "avans_durumu",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea3221de-05e5-4cfe-9adb-c6788e2b6a3d",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_yillik",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "naönaemörn",
+        "alias": "baslangic_tarihi_yillik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "jkyasdfy",
+        "alias": "bitis_tarihi_yillik",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "EVET",
+        "alias": "avans_durumu",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

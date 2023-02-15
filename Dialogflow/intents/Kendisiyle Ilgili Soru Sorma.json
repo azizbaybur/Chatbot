@@ -1,0 +1,30 @@
+{
+  "id": "8ce0e1be-8be7-44d5-8515-a834cfc5de69",
+  "name": "Kendisiyle Ilgili Soru Sorma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Sizi henüz tanımıyorum.",
+            "Kendinizden bahsetmediniz."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

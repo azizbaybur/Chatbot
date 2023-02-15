@@ -1,0 +1,32 @@
+{
+  "id": "92ac0a4d-a2eb-4665-9955-bf1eb72b2de7",
+  "name": "Sen Kimsin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Benim adım Jojo, sizin akıllı asistanınızım. Bana şimdilik yalnızca Microsoft Teams üzerinden ulaşabilirsiniz.",
+            "Adım Jojo, ben bir chatbotum. Bana şimdilik yalnızca Microsoft Teams üzerinden ulaşabilirsiniz.",
+            "Ben Jojo, sizin Akıllı yardımcınızım. Bana şimdilik yalnızca Microsoft Teams üzerinden ulaşabilirsiniz.",
+            "Bana Jojo diyebilirsiniz. Ben akıllı bir asistanım. Görevim size yardım etmek. Bana şimdilik yalnızca Microsoft Teams üzerinden ulaşabilirsiniz."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

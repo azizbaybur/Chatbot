@@ -1,0 +1,27 @@
+{
+  "id": "2ab5d4ab-8482-4cca-9d13-9ad774f99bde",
+  "name": "Hava Durumu Sorusu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Hava durumunu öğrenmek için yardımcım \u003ca href\u003d\"https://teams.microsoft.com/_#/apps/fc6b6d20-89ed-45fb-9e62-e4b4ca8fbf3f/sections/conversations?slug\u003d28:c8f1cda6-5af5-40bf-a9f3-2fa21b72adde \" \u003eWho\u003c/a\u003e\u0027 ya danışınız."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d4090f46-8b95-4837-8bd4-77db75c1a009",
+  "name": "Bugun Sorgulama",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "423abe8e-86a3-4206-8c38-726c69cc5873",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Bugünün tarihi : $date \u0027dir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

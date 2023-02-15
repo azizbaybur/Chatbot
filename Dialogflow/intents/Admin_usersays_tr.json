@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c574ea1d-ae5d-4373-a76d-753a37b1e040",
+    "data": [
+      {
+        "text": "admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86b733aa-cac4-4a83-b883-fee8e50b0559",
+    "data": [
+      {
+        "text": "sahibin kim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5dcc2b3b-b71d-4212-8ae6-f6ba048e3340",
+    "data": [
+      {
+        "text": "yaratıcın kim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e91fc5e-cdf9-48ba-a68e-0145ae146119",
+    "data": [
+      {
+        "text": "yaratici",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2b62a32-eba2-4138-a740-73d4828a6258",
+    "data": [
+      {
+        "text": "yaratıcı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1afca2ae-29ce-4a46-81b0-a18d6868d10e",
+    "data": [
+      {
+        "text": "☺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5bb72528-b995-4ef1-a233-ef8c1be9b629",
+    "data": [
+      {
+        "text": "☺)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2302fbc2-4645-4601-9117-ed89ae350355",
+    "data": [
+      {
+        "text": ":D",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "08be40d8-baa0-4ad9-93d0-13acab1df3e0",
+  "name": "KS - Alışveriş",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "•\tKORDSA STARS içerisinde yer alan KORDSA REWARDS Alışverişe Başla Kutucuğu’na tıkladığınızda KORDSA REWARDS’a yönlendirilirsiniz. • KORDSA REWARDS içerisinde yer alan hangi ürün veya ürünleri almak istediğinize karar verin. • Beğenmiş olduğunuz ürünü SEPETE EKLE kutucuğuna basarak, sepetinize ekleyebilirsiniz. • HİZMET ve UYGULAMA ŞARTLARI’nı kabul ettikten sonra SİPARİŞİ TAMAMLA kutucuğunu tıklayın.\n•\tFATURA ADRESİ’nizi ekrandaki bilgileri doldurarak belirleyin. Alışverişinize devam etmek için İLERİ kutucuğunu tıklayın. • Seçmiş olduğunuz ürünün kargo ücreti oluşacaktır. İLERİ tuşuna basarak işleminize devam edin. • Seçmiş olduğunuz ürün için isterseniz birikmiş PUANLARINIZI, isterseniz hiç puan harcamadan KREDİ KARTINIZI veya PUAN + KREDİ KARTI seçeneğini devreye sokarak alışverişinizi tamamlayabilirsiniz. • Harcayağınız puanlar veya kredi kartı tl. tutarı otomatik olarak değişecektir. •\tÖDEME YAP kutucuğuna basarak alışverişinizi sonlandırabilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3a569fc0-ce8d-49b1-b434-7f1d65b8f220",
+  "name": "Hayir",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Siz daha iyi bilirsiniz.",
+            "Yorum yapamayacağım.",
+            "Sizin bileceğiniz bir durum."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "995155ad-11d9-4244-8095-926e6ca3ec2c",
+    "data": [
+      {
+        "text": "sonra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87b4f2fe-a8f6-4543-96b4-ffb702fca698",
+    "data": [
+      {
+        "text": "of",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4d8aaedb-bea0-4bb6-91ae-bbede64bbe20",
+    "data": [
+      {
+        "text": "olmadı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1296759f-e849-4904-a661-bf6e639ec2d6",
+    "data": [
+      {
+        "text": "noldu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66d73fae-5089-48e6-93f5-ebf8055ea370",
+    "data": [
+      {
+        "text": "hani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

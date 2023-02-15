@@ -1,0 +1,36 @@
+{
+  "id": "5418b39e-743e-4a00-bf76-86221019029e",
+  "name": "Organizasyon Şeması - TR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30673588-f749-46af-af8e-3394e57c0a76",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Türkiye organizasyon şemasını görüntülemek için \u003ca href\u003d\"https://kordsaglobal-my.sharepoint.com/personal/fileport_kordsaglobal_com/_layouts/15/onedrive.aspx?FolderCTID\u003d0x0120002CB1FA\u0026id\u003d%2Fpersonal%2Ffileport_kordsaglobal_com%2FDocuments%2FJojo%20Share%2FKTR_ORGAN%C4%B0ZASYON%20SEMASI%2Epng\u0026parent\u003d%2Fpersonal%2Ffileport_kordsaglobal_com%2FDocuments%2FJojo%20Share\" \u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "70c4fe53-685a-4fb7-9854-e81ade2dae7e",
+  "name": "eBA.Net",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "eBA.Net sistemine giriş için \u003ca href\u003d\"http://172.17.0.37/eba.net/\" \u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: Bilgisayar kullanıcı adınız, Şifre: Bilgisayar açılış şifrenizdir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

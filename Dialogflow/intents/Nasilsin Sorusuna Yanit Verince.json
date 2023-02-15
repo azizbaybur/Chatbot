@@ -1,0 +1,33 @@
+{
+  "id": "0d484f21-1751-4c18-81d3-a0d530725c91",
+  "name": "Nasilsin Sorusuna Yanit Verince",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Bunu duyduğuma sevindim.",
+            "Harika!",
+            "Ne güzel!",
+            "Süper!",
+            "İyi olmanıza sevindim."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

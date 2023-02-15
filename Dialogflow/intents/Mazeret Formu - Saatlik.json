@@ -1,0 +1,111 @@
+{
+  "id": "0069eb49-1123-4952-b3eb-1edf3a9a0409",
+  "name": "Mazeret Formu - Saatlik",
+  "auto": false,
+  "contexts": [
+    "mazeret-saatlik"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "mazeret-saatlik",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ee6f9465-ca47-49b6-a045-262b4d3f2c7a",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "form_tipi",
+          "value": "saatlik_mazeret",
+          "isList": false
+        },
+        {
+          "id": "c7547054-9af5-403d-99ae-fe9462b8f57a",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "sicil_no_saatlik",
+          "value": "$sicil_no_saatlik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Saatlik Mazeret için Sicil no, İzin tarihi, İzin başlangıç saati ve İzin bitiş saatini örnekteki gibi arada birer boşluk bırakarak giriniz. (ÖRNEK: 8832 bugün 14:00 17:30, ÖRNEK: 8832 01.01.2019 14:00 17:30)\nTeker teker girmek için sadece Sicil no giriniz. İptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "93db05a0-a957-492f-9dbe-25a408209a3f",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "baslangic_tarihi_saatlik",
+          "value": "$baslangic_tarihi_saatlik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarasını kaydettim. İzin tarihi belirtiniz. (ÖRNEK: 01.01.2019 / dün / bugün / yarın)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "788def51-0543-4832-af6d-2b66af80d245",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "baslangic_saati_saatlik",
+          "value": "$baslangic_saati_saatlik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarası ve İzin tarihini kaydettim. İzin başlangıç saati belirtiniz. (ÖRNEK: 10:00)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "8c60ed0c-0b2d-4aa8-a814-48922871d850",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "bitis_saati_saatlik",
+          "value": "$bitis_saati_saatlik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarası, İzin tarihi ve İzin başlangıç saatini kaydettim. İzin bitiş saati belirtiniz. (ÖRNEK: 14:00)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "afce3b04-6758-421e-89c9-a8fb6ca4a90e",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "onay_durumu",
+          "value": "$onay_durumu",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "$sicil_no_saatlik sicil numarası için izin tarihi: $baslangic_tarihi_saatlik, İzin başlangıç saati: $baslangic_saati_saatlik, İzin bitiş saati: $bitis_saati_saatlik olacak şekilde Saatlik Mazeret talebinizi oluşturuyorum?\nOnaylamak için ONAY, iptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "skype": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "26d886fb-8b62-4998-869e-555ba2c7b350",
+  "name": "Borc Talebi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Bende de durumlar parlak sayılmaz.",
+            "Olsa dükkan sizin.",
+            "Malesef, ben de sıkışığım bu aralar."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

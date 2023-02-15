@@ -1,0 +1,46 @@
+[
+  {
+    "id": "414cb261-3873-4279-8cbe-df32790a4ac0",
+    "data": [
+      {
+        "text": "Global Job Posting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "af327d72-cc1b-429e-b930-e1c984a1f6cc",
+    "data": [
+      {
+        "text": "global iş ilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7959683e-e66d-4877-b42d-fb3b32c204f5",
+    "data": [
+      {
+        "text": "iş ilan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eabaf43a-7652-4c6d-ac25-b03974dc68d6",
+    "data": [
+      {
+        "text": "job posting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

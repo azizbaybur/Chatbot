@@ -1,0 +1,27 @@
+{
+  "id": "afcedfe1-8bdb-4302-a115-68ba59340e16",
+  "name": "Yemek Menüsü",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Günün menüsünü görüntülemek için \u003ca href\u003d\"http://tr.peopleclip.kordsaglobal.com/Lists/DiningMenu/Local.aspx\"\u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "2106c533-5746-4ae4-9276-b889dcbb115c",
+    "data": [
+      {
+        "text": "Sistem admini olmak istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd55ac67-4cd9-4f70-9d45-fea1997c9fda",
+    "data": [
+      {
+        "text": "istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9add261-3e50-4892-a063-2c4835cbbd6b",
+    "data": [
+      {
+        "text": "Sahalar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78c3fff4-e11f-43fe-a69c-0560023a0d9c",
+    "data": [
+      {
+        "text": "yardım canım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a12c9322-8e6d-419a-84c3-e11bf11b083e",
+    "data": [
+      {
+        "text": "olur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20e885ca-0c69-4da2-8e19-8dc422f33886",
+    "data": [
+      {
+        "text": "Yardim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff1b38f3-c7ee-4fb3-a38a-c676494a8619",
+    "data": [
+      {
+        "text": "isteğim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2dc8e0e-7955-4488-8eff-d1b0332ef23f",
+    "data": [
+      {
+        "text": "talebim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e677a450-52b2-44bf-99f6-56b63664e8d2",
+    "data": [
+      {
+        "text": "ne dicem sana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3dc461b7-639b-48ba-9bab-e370095925d3",
+    "data": [
+      {
+        "text": "ricam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "de7e5bd2-7b88-4fbb-abf1-b12a078433a6",
+    "data": [
+      {
+        "text": "bir şey istiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f1573fd3-ed1c-4c15-a346-c2cdba308f1e",
+    "data": [
+      {
+        "text": "Yardım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "93c131ee-bbf8-4939-a51e-e57a049e0751",
+    "data": [
+      {
+        "text": "form doldur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "f687a138-12dc-4473-b974-553ad407b964",
+    "data": [
+      {
+        "text": "isteyebilir miyim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "aa3cded0-36b7-46ba-9e3c-e88172185b1d",
+    "data": [
+      {
+        "text": "Yardımcı ol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "bf8e7801-8b86-41e6-8181-57034dc82e1f",
+    "data": [
+      {
+        "text": "bir şey isticem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "9eb3c4d7-593c-44ae-8ff8-d85285eafe25",
+    "data": [
+      {
+        "text": "bir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " iyilik yap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "9eac32f7-bd71-4874-af10-410caf0abea0",
+    "data": [
+      {
+        "text": "senden bişi isticem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "873bc6a3-4437-4cd1-8bb4-d48fc43853bd",
+    "data": [
+      {
+        "text": "İzin almak için yardıma ihtiyacım var",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

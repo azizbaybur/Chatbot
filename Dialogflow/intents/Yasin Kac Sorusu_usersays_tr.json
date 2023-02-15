@@ -1,0 +1,46 @@
+[
+  {
+    "id": "5ce6ef8e-abff-48e5-ab31-6c67b1d7b049",
+    "data": [
+      {
+        "text": "doğum tarihin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ceef4247-bc97-481d-b245-610600bc3771",
+    "data": [
+      {
+        "text": "kaç doğumlusun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7220dbdd-9507-481e-9450-c53aa5c1b487",
+    "data": [
+      {
+        "text": "kaç yaşındasın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59496a74-fe1e-4f1e-8520-63913e331410",
+    "data": [
+      {
+        "text": "yaşın kaç",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

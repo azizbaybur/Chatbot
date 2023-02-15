@@ -1,0 +1,109 @@
+{
+  "id": "4eac9d40-f6a2-4989-bc64-256494288b0f",
+  "name": "Yillik Izin Formu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "yilik-izin",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b56cb201-3a97-4d7f-b928-9da8b261e036",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "form_tipi",
+          "value": "yillik_izin",
+          "isList": false
+        },
+        {
+          "id": "84cdf7cb-e947-4e73-9575-8e5db2de1cd8",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "sicil_no_yillik",
+          "value": "$sicil_no_yillik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Yıllık İzin için Sicil no, İzin başlangıç tarihi, İş başı tarihi ve AVANS İSTEĞİNİ örnekteki gibi arada birer boşluk bırakarak giriniz. (ÖRNEK: 8832 bugün yarın EVET, ÖRNEK: 8832 01.01.2019 02.01.2019 HAYIR)\nTeker teker girmek için sadece Sicil no giriniz. İptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ef126a14-9543-4e9d-9792-237d55a7f47c",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "baslangic_tarihi_yillik",
+          "value": "$baslangic_tarihi_yillik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarasını kaydettim. İzin başlangıç tarihi belirtiniz. (ÖRNEK: 01.01.2019 / dün / bugün / yarın)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "61774e3e-8d3a-4337-a87f-f327ab3322de",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "bitis_tarihi_yillik",
+          "value": "$bitis_tarihi_yillik",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarası ve izin başlangıç tarihini kaydettim. İş başı tarihi belirtiniz. (ÖRNEK: 01.01.2019 / dün / bugün / yarın)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "71e4f9b2-815c-42a3-87c2-dde92fc0959c",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "avans_durumu",
+          "value": "$avans_durumu",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Sicil numarası, izin başlangıç tarihi ve iş başı tarihini kaydettim. Avans isteği belirtiniz. (ÖRNEK: EVET / HAYIR)\nİptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ce324035-05b6-450f-b617-79960ee78bb2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "onay_durumu",
+          "value": "$onay_durumu",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "$sicil_no_yillik sicil numarası için İzin başlangıç tarihi: $baslangic_tarihi_yillik, İş başı tarihi: $bitis_tarihi_yillik, Avans isteği : $avans_durumu olacak şekilde Yıllık İzin talebinizi oluşturuyorum?\nOnaylamak için ONAY, iptal etmek için İPTAL yazınız."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "skype": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

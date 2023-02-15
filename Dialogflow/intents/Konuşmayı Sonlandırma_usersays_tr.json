@@ -1,0 +1,105 @@
+[
+  {
+    "id": "b3bc099f-a70b-49b3-a2df-b0a7b1e64dcd",
+    "data": [
+      {
+        "text": "kaçtım ben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61b77202-81e4-40e1-a5b0-da87a2918d72",
+    "data": [
+      {
+        "text": "görüşürüz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "cc9a26d3-2e47-4cc3-b054-38143db4163e",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "fc907374-d567-4079-9147-e086c4408663",
+    "data": [
+      {
+        "text": "görüşürüz jojo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8c97c59-c8f4-465c-ace0-ae0274547b2b",
+    "data": [
+      {
+        "text": "hoşçakal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "860a6ba1-c1ec-43b6-a102-40f283b259c3",
+    "data": [
+      {
+        "text": "dikkat et",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6333b127-d048-4e99-a917-9ddc1baa91e3",
+    "data": [
+      {
+        "text": "kendine dikkat et",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "020d7202-0e3d-4209-842a-574e8ae38c6c",
+    "data": [
+      {
+        "text": "kendine iyi bak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a6706e8-cf42-43e9-a82e-7520a3256096",
+    "data": [
+      {
+        "text": "gorusuruz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "34e8acd4-dda7-4d45-94c5-28d9ee6ee8c0",
+  "name": "Kim Kimdir?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Kordsa\u0027da kim kimdir? Öğrenmek için yardımcım \u003ca href\u003d\"https://teams.microsoft.com/_#/apps/fc6b6d20-89ed-45fb-9e62-e4b4ca8fbf3f/sections/conversations?slug\u003d28:c8f1cda6-5af5-40bf-a9f3-2fa21b72adde\" \u003eWho\u003c/a\u003e \u0027ya danışınız.\nKendisine ulaşamıyorsanız Microsoft Tems masaüstü uygulamasında sol bölümdeki panel üzerinden 3 noktalı butona tıkladıktan sonra açılan listeden WHO seçeneğini seçerek kişi listenize ekleyebilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

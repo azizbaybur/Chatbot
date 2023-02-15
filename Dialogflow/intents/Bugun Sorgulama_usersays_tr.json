@@ -1,0 +1,59 @@
+[
+  {
+    "id": "d7313273-80a4-4b4d-bd2a-302598a99841",
+    "data": [
+      {
+        "text": "bügun",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "219f2c79-f98e-4221-be54-6828ae7e0a29",
+    "data": [
+      {
+        "text": "Bugün",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " hangi gün",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5254ef15-6ff8-49fa-a16a-6f38fe24a060",
+    "data": [
+      {
+        "text": "Bugün",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b04e8e0-4833-4754-8239-26b1725a7635",
+    "data": [
+      {
+        "text": "Bugun",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "e0a26531-b24b-4705-9d54-e574d1366f1a",
+    "data": [
+      {
+        "text": "git işine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbdf06c0-dc60-4d62-8bcc-08d2612fc86e",
+    "data": [
+      {
+        "text": "ya git işine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58e39fb2-f2c1-4e4a-8e82-6a6c835f8e79",
+    "data": [
+      {
+        "text": "ya bırak ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "60654680-e699-4bc6-9bb3-d12934501a71",
+    "data": [
+      {
+        "text": "ya bırak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2d919aa2-9975-4f6c-9d09-8eaa846c2280",
+    "data": [
+      {
+        "text": "bırak ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "78fda5b2-e31f-43fd-9d42-d68b237da6be",
+    "data": [
+      {
+        "text": "çok ",
+        "userDefined": false
+      },
+      {
+        "text": "bir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " şey istemiyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcc7783a-9040-429f-b000-1f318da3cde3",
+    "data": [
+      {
+        "text": "çok bişi istemiyom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d3c2240e-eaca-4e47-a3a1-98459f0e4909",
+    "data": [
+      {
+        "text": "hep aynı yalanlar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "3f74aeeb-c942-41e9-a025-35756319b67d",
+    "data": [
+      {
+        "text": "bırak bu ayakları",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "8efeac05-e71e-4e1a-b1b7-05c1edeb0af2",
+    "data": [
+      {
+        "text": "hadi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a3c70f37-c7ca-4b92-a353-8be99f8bfc5c",
+    "data": [
+      {
+        "text": "inanmıyorum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e4ac1a00-0fe0-4377-9f6a-412ab069ad27",
+    "data": [
+      {
+        "text": "yalan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7299fadd-30c3-4b89-a087-1bb88a2b33c0",
+    "data": [
+      {
+        "text": "yalan söylüyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

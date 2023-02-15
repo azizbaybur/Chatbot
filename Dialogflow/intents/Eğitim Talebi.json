@@ -1,0 +1,27 @@
+{
+  "id": "959f8c26-8072-44ff-b1e0-8a8485e7a7c4",
+  "name": "Eğitim Talebi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Eğitim Talepleri \u003ca href\u003d\"https://hrweb.sabancidx.com/ikportal/\"\u003eHr Web\u003c/a\u003e sistemi üzerinden yapılır, Formlar \u003e Eğitim Formları \u003e Yeni Kayıt \u003e Eğtim Kataloğundan seç \u003e Eğitim Kodu sekmelerini sıra ile takip edebilirsiniz.\nEğer talep ettiğiniz eğitim katalogda bulunmuyorsa yeni özel eğitim talebi oluştur sekmesinden devam edebilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

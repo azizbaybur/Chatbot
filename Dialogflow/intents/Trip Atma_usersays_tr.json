@@ -1,0 +1,70 @@
+[
+  {
+    "id": "65ce6690-400f-4a5e-b2bb-fe39fa448440",
+    "data": [
+      {
+        "text": "trip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e79cb3ae-5a51-463a-8619-bc01ebc78979",
+    "data": [
+      {
+        "text": "üzüldün mü",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f71004d4-5ecb-4c3a-82b7-7b58105cd338",
+    "data": [
+      {
+        "text": "küstün mü",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3988dfe0-4285-4bca-8419-6ed531152f00",
+    "data": [
+      {
+        "text": "kızdın mı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ef868ca-127a-459c-bb8b-9f8ceeb32f85",
+    "data": [
+      {
+        "text": "kıyamam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "980aa4dd-eb63-4d3e-96cb-0eaad62c9931",
+    "data": [
+      {
+        "text": "kızdın mı sen bana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

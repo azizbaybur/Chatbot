@@ -1,0 +1,39 @@
+{
+  "id": "f8386cb8-eba8-4258-b0f6-687f057a5a07",
+  "name": "Kendini Tanıtma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c8cca656-f7dd-41f5-abd0-918de0ff0122",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "ad",
+          "value": "$ad",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Memnun oldum $ad, ben de Jojo.",
+            "Merhaba $ad. Benim adım da Jojo. Memnun oldum."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

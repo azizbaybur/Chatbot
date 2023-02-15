@@ -1,0 +1,30 @@
+{
+  "id": "b9dce754-f09a-4bd7-9565-d8f5b7cd74ca",
+  "name": "Ne Dedin Sorusu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Bir üst satıra bakmanız yeterli",
+            "Ne söylediğim aşikar değil mi?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

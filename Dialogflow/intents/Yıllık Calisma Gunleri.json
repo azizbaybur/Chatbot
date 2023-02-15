@@ -1,0 +1,27 @@
+{
+  "id": "7e5afe37-22be-479a-9a8b-c5c45e9d2369",
+  "name": "Yıllık Calisma Gunleri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Yıllık çalışma takvimini görüntülemek için \u003ca href\u003d\"https://kordsaglobal-my.sharepoint.com/personal/fileport_kordsaglobal_com/Documents/Jojo%20Share/Duyuru_2019%20Y%C4%B1l%C4%B1%20Toplu%20Tatil%20G%C3%BCnleri.pdf\"\u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

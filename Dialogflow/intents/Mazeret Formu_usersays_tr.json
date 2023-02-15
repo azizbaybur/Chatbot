@@ -1,0 +1,25 @@
+[
+  {
+    "id": "b242799e-6055-41c3-9f59-3ceed0483092",
+    "data": [
+      {
+        "text": "Mazeret",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "updated": 0
+  },
+  {
+    "id": "df991df2-4ece-4885-8f73-e35f06e5927e",
+    "data": [
+      {
+        "text": "Mazeret İzni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

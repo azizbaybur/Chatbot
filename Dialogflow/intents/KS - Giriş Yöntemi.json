@@ -1,0 +1,28 @@
+{
+  "id": "5b56ceae-8e52-443e-af35-63256e1e5a02",
+  "name": "KS - Giriş Yöntemi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Kordsa Stars sistemine giriş için \u003ca href\u003d\"https://kordsastars.biggstars.com/Login/biggyLogin\"\u003etıklayınız.\u003c/a\u003e\nKullanıcı Adı : İlk girişinizde Mail adresiniz, 2. ve sonraki girişlerinizde Sicil numaranız, Şifre : Kendi oluşturduğunuz şifredir. Sisteme ilk girişinizi mail adresinize gelen aktivasyon maili ile yapınız. Şifrenin unutulması halinde; şifremi unuttum butonu aracılığı ile şifre alınız."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "74863a3c-f385-4595-8a8e-b4f667abd42c",
+    "data": [
+      {
+        "text": "hadi ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "783db823-3230-4e69-be2a-ad454381e3e5",
+    "data": [
+      {
+        "text": "gerçekten mi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8506efe9-1e77-4e82-a303-fbfbb7d011bd",
+    "data": [
+      {
+        "text": "öyle mi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33af2539-87a5-427d-bd16-660f1a4b08a1",
+    "data": [
+      {
+        "text": "demek öyle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  }
+]

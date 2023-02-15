@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ebfec315-6aea-4459-962f-aef9de9c98bc",
+    "data": [
+      {
+        "text": "günün menüsü",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a16112ee-d52f-4bfa-84e8-edd3de716020",
+    "data": [
+      {
+        "text": "bugün yemekte ne var",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b507c6e5-b50c-46a2-a478-56e891d3c293",
+    "data": [
+      {
+        "text": "yemekte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "58a50f3e-c8dc-47a4-98a1-5a01e66caaa5",
+    "data": [
+      {
+        "text": "yemek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

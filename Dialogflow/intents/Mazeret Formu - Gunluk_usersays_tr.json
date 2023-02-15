@@ -1,0 +1,123 @@
+[
+  {
+    "id": "514dcedc-7e4b-48c7-b955-3dbbc50754b1",
+    "data": [
+      {
+        "text": "Gunluk Mazeret",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48c46367-dc1e-4209-a521-89bf7efdb17c",
+    "data": [
+      {
+        "text": "Günlük Mazeret",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be1775a0-9831-4ccb-b77a-4c74ba8990de",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_gunluk",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hasdasdajh",
+        "alias": "baslangic_tarihi_gunluk",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "saysvdjhvjad",
+        "alias": "bitis_tarihi_gunluk",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d430616-b782-4c0f-88db-99828fbf5a42",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_gunluk",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "99.99.9999",
+        "alias": "baslangic_tarihi_gunluk",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mpoıpdasdfa",
+        "alias": "bitis_tarihi_gunluk",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "9cd5cda2-946d-4032-b7c0-61a619ab8194",
+    "data": [
+      {
+        "text": "0000",
+        "alias": "sicil_no_gunluk",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rbvnsnerv",
+        "alias": "baslangic_tarihi_gunluk",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "99.99.9999",
+        "alias": "bitis_tarihi_gunluk",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2
+  }
+]

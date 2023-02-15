@@ -1,0 +1,49 @@
+{
+  "id": "8e188867-3df7-4f41-838b-d2ede78f0f03",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9690d74d-0091-43da-8ef1-3de1431f4442",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Merhaba!",
+            "Selam!",
+            "İyi günler!",
+            "Selamlar!",
+            "Selam, sizi görmek çok güzel!",
+            "Merhaba ve Hoşgeldiniz!",
+            "Selam, bugün çok iyi görünüyorsunuz!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

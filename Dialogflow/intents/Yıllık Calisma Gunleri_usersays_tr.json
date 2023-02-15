@@ -1,0 +1,102 @@
+[
+  {
+    "id": "a8921152-3fc7-4ed9-b3d9-1751ab0cf620",
+    "data": [
+      {
+        "text": "yıllık takvim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228e8d36-7a8f-4932-adec-645c68c9ddb0",
+    "data": [
+      {
+        "text": "izinli günler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "253dfbdf-a52c-4a8b-b1e6-f409fd08c1f4",
+    "data": [
+      {
+        "text": "kurban bayramı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "efb0b62e-0f57-45f9-aece-ea4f091a3126",
+    "data": [
+      {
+        "text": "ramazan bayramı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f69c960-b264-4922-aaaf-fb62eb4263f2",
+    "data": [
+      {
+        "text": "bayram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59bc5fcd-07e9-4e53-8448-3b8a58edeb6f",
+    "data": [
+      {
+        "text": "çalışma günleri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ba9f2a48-34d6-4677-8715-4e239b712bb1",
+    "data": [
+      {
+        "text": "tatil günleri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f89ff06-692d-4270-9bb1-a344dd60a902",
+    "data": [
+      {
+        "text": "takvim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "359d7d9b-6d65-4b1f-a07d-e091f622c486",
+    "data": [
+      {
+        "text": "tatil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

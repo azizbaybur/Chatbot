@@ -1,0 +1,68 @@
+[
+  {
+    "id": "987d6b44-cfdd-47bb-8af7-8978cd93f30a",
+    "data": [
+      {
+        "text": "önerme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4c9b3f2-6456-407b-84b7-627b6615ab29",
+    "data": [
+      {
+        "text": "aday önerme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "65c27095-ca94-4591-a20e-512aed529c2b",
+    "data": [
+      {
+        "text": "işe alim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cdf879d-525f-408a-acff-01acf1e3d76f",
+    "data": [
+      {
+        "text": "ise alim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "884bb867-8697-4c12-97f9-92d081efdc44",
+    "data": [
+      {
+        "text": "ise alım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a7225786-060a-4622-8cfd-d3e76d6d0fb1",
+    "data": [
+      {
+        "text": "işe alım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

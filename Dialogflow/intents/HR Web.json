@@ -1,0 +1,28 @@
+{
+  "id": "f039cb3f-29b9-419e-8a1f-7bcd5c57486c",
+  "name": "HR Web",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "HR Web sistemine giriş için \u003ca href\u003d\"https://hrweb.sabancidx.com/ikportal/\" \u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: TR\\Bilgisayar kullanıcı adınız, Şifre: Bilgisayar açılış şifrenizdir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

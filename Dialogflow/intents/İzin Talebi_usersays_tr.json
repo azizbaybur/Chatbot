@@ -1,0 +1,62 @@
+[
+  {
+    "id": "411b2c40-a117-4730-8f7b-6171779945a8",
+    "data": [
+      {
+        "text": "bana izin yazsana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "86c33d8d-c342-450a-ad4d-259e16e741b6",
+    "data": [
+      {
+        "text": "bana bir izin yazar mısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "53102007-c952-416e-b7c0-0c732b65c3b3",
+    "data": [
+      {
+        "text": "İzin almak için yardıma ihtiyacım var",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "464fe742-fe86-4644-b20b-b465a2aefbb8",
+    "data": [
+      {
+        "text": "Bana izin yazarmısın ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "54cd9968-b9b4-4922-99f1-bf057fe00e89",
+    "data": [
+      {
+        "text": "bana mazeret izni yazar mısın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "f2b1d15d-919b-48a1-999a-efd87821e284",
+  "name": "Iltifat Edince",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Şımartıyorsunuz :)",
+            "Bunları duymak ne kadar da hoş :)",
+            "Düşünceleriniz için teşekkürler :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

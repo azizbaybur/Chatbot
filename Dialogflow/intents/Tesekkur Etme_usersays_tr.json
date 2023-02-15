@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1010c453-8016-49b5-9f06-a84448acabf1",
+    "data": [
+      {
+        "text": "sapol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c50f059b-6ce5-42f7-ba74-90fe93786d7c",
+    "data": [
+      {
+        "text": "sağ ol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1772e1de-cb64-403a-8778-cae0dc791752",
+    "data": [
+      {
+        "text": "sag ol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "42774593-e918-49c1-99aa-3498183fd169",
+    "data": [
+      {
+        "text": "sagol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b951305-1c21-432b-aa6e-ac4580ae0366",
+    "data": [
+      {
+        "text": "sağol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a79e0006-d84d-4739-b7d2-8d1dfc7cec2c",
+    "data": [
+      {
+        "text": "teşekkürler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 13,
+    "updated": 0
+  },
+  {
+    "id": "259fef5d-b17d-4726-8302-43f1a5111056",
+    "data": [
+      {
+        "text": "teşekkü ederim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84e4ea43-0403-4179-8a45-bc08586bc844",
+    "data": [
+      {
+        "text": "teşekkür ederim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c6f29e7-cab2-4ed9-91dc-c129e3724e1b",
+    "data": [
+      {
+        "text": "eyvallah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

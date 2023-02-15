@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0471d974-6fe8-4310-b3da-005785c948a5",
+    "data": [
+      {
+        "text": "video konferans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "66e7e3fa-d1bf-4702-b2d9-a82baac8e6b2",
+    "data": [
+      {
+        "text": "konferans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

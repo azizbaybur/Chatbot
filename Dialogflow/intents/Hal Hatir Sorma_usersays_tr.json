@@ -1,0 +1,430 @@
+[
+  {
+    "id": "5a4aff65-b8b4-4ad2-8d03-045f866a63f4",
+    "data": [
+      {
+        "text": "sende ne var ne yok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a92bc96c-00c9-4b78-8052-c3ea1245d060",
+    "data": [
+      {
+        "text": "Noruyon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbea142d-6a92-4043-b34d-52e3a67f5453",
+    "data": [
+      {
+        "text": "Nabiyon len",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8694fa7-47d7-46ea-8782-a341bf2caf52",
+    "data": [
+      {
+        "text": "Nassin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3388946d-2cb3-4041-bd45-8fa79868d52c",
+    "data": [
+      {
+        "text": "nassın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "9d90168a-9851-4517-a889-b4f40b36480e",
+    "data": [
+      {
+        "text": "nasilsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9da532af-880c-4d0b-9611-904e779da5cc",
+    "data": [
+      {
+        "text": "naper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3504f532-f3b6-4c87-be73-4a33a76bd966",
+    "data": [
+      {
+        "text": "keyifler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dd39227-ec55-4660-ae20-4bcb40c608ca",
+    "data": [
+      {
+        "text": "asıl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b0023496-d426-40c1-96f5-2bf097945982",
+    "data": [
+      {
+        "text": "nabersin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "38753036-b32e-4a72-8225-0a02992eb077",
+    "data": [
+      {
+        "text": "naber diyom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33e67faa-f7f4-4c78-bdd5-3989c571d1ff",
+    "data": [
+      {
+        "text": "Nasılsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 27,
+    "updated": 0
+  },
+  {
+    "id": "e8b6382c-1e9a-4045-b2ae-296a917e5f56",
+    "data": [
+      {
+        "text": "nasılsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b017375-c5c3-49d1-bbdb-f009a3b9aa59",
+    "data": [
+      {
+        "text": "naber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "48ef3e6f-2a2b-4546-8089-716bacb16593",
+    "data": [
+      {
+        "text": "nasılsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d42d66d0-e91e-4748-9c42-48233e804dcd",
+    "data": [
+      {
+        "text": "aptın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "973ecf6c-f4e9-4ea6-a7fa-6255f19e3b47",
+    "data": [
+      {
+        "text": "naptın müdür",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "11e9bd24-f331-441a-9831-8a4b05e30b68",
+    "data": [
+      {
+        "text": "napıyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "035d61f1-b87e-4ed1-a615-c19734b2c4d8",
+    "data": [
+      {
+        "text": "ne yapıyorsun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "1c62f480-1ae9-439d-a1c7-c13f6a6d300e",
+    "data": [
+      {
+        "text": "How are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "updated": 0
+  },
+  {
+    "id": "9a870136-9db3-4f52-aeb0-8c348c498b23",
+    "data": [
+      {
+        "text": "naşilşin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1c4684c9-819f-42e9-83c7-66038835af0f",
+    "data": [
+      {
+        "text": "Nasilsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "ef90e9f9-63a2-4314-9bf4-2acfa3c567a5",
+    "data": [
+      {
+        "text": "selam naber nasılsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e3f05340-6306-4e8d-b8ab-2e2e51f985c9",
+    "data": [
+      {
+        "text": "şelam naber nasılsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1a040ef2-b7f7-4861-bd1d-6698bc274978",
+    "data": [
+      {
+        "text": "şelam naper naşilşin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "b1fcf2d5-4b55-4ec0-8757-102baa01b7eb",
+    "data": [
+      {
+        "text": "Nasın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "a4184e15-6257-41d5-88d8-afef78e8370e",
+    "data": [
+      {
+        "text": "bu güzel havada nasılsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "updated": 0
+  },
+  {
+    "id": "3839d9dd-e275-4484-8e1f-0d6fe3fc902d",
+    "data": [
+      {
+        "text": "bu güzel havada selam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "fb431b35-476f-41e1-8f3d-ade9a1fc2388",
+    "data": [
+      {
+        "text": "How are you today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f67361d6-9ffa-486a-90f0-216500f8f3e9",
+    "data": [
+      {
+        "text": "naber napıyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8f469318-9bb8-4cc5-8016-0bd683412eef",
+    "data": [
+      {
+        "text": "How R u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d9c2f7cc-039f-43bf-8408-5343a95e3621",
+    "data": [
+      {
+        "text": "naper kenks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "64a64c6d-2599-4524-b75b-e2af387b51eb",
+    "data": [
+      {
+        "text": "naptın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "20813c84-d8fc-44b7-95a7-3d16e5edd3a0",
+    "data": [
+      {
+        "text": "How are You",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7918e9f0-00d0-47c9-9f0d-8550b2e927f7",
+    "data": [
+      {
+        "text": "işler nasıl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e7fddc8-b06c-4142-8cd0-68db8d424b89",
+    "data": [
+      {
+        "text": "Nasıl gidiyor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

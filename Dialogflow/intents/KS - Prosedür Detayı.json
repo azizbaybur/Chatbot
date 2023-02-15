@@ -1,0 +1,27 @@
+{
+  "id": "4ace533a-1c8b-4c35-94d2-e61470ba6b3a",
+  "name": "KS - Prosedür Detayı",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Prosedür detaylarını \u003ca href\u003d\"http://kgs1104013/QDMS/QDMSNET/BSAT/Logon.aspx\"\u003eQDMS\u003c/a\u003e sistemi aracılığı ile Standart İşletme Prosedürlerindeki İnsan Kaynakları’na ait “Tanıma \u0026 Ödüllendirme Prosedürü”nden görüntüleyebilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

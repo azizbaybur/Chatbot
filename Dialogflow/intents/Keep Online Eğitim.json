@@ -1,0 +1,27 @@
+{
+  "id": "42357296-07dc-432f-861e-1ce7dcd01d90",
+  "name": "Keep Online Eğitim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Keep online eğitim platformuna giriş için \u003ca href\u003d\"https://keep.kordsaglobal.com/Home/Login\" \u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: Sicil numaranız, Şifre: Kendi oluşturduğunuz şifredir. Şifrenin unutulması halinde; şifremi unuttum butonu aracılığı ile şifre alınız."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

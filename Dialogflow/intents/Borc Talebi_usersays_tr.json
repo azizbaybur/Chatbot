@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0a122e29-941e-47cb-92e7-84b88ff9e958",
+    "data": [
+      {
+        "text": "borç",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "updated": 0
+  },
+  {
+    "id": "5cd352ea-79b2-49e5-a5b7-e52767c08968",
+    "data": [
+      {
+        "text": "para lazım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "b99677cd-05be-46ed-b5cb-c2be0c9ac0c8",
+    "data": [
+      {
+        "text": "lazım para",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "3157d21b-696f-424b-bb1d-beeb22e8f29e",
+    "data": [
+      {
+        "text": "borç versene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3d91a182-e0be-4706-970d-54246c24eea0",
+    "data": [
+      {
+        "text": "para ver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9bb29f72-b013-4139-830f-65a5c6ffe86d",
+    "data": [
+      {
+        "text": "bana para ver",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "5b539fc6-31b7-42f0-bc64-e492a9d82885",
+    "data": [
+      {
+        "text": "para var mı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f7bec2de-e3b4-482c-96d4-1cefd619c3fe",
+    "data": [
+      {
+        "text": "paraaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

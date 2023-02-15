@@ -1,0 +1,27 @@
+{
+  "id": "38617ec7-7b32-4018-b548-fba8acd39e7d",
+  "name": "KS - Sipariş Sorunu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "KordsaStars Siparişleri, kargo ve gelen ürünlerle ilgili sorunlar için Sibel Agopyan; \u003csagopyan@biggloyalty.com\u003e ile iletişime geçebilirsiniz."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

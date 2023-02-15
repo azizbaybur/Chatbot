@@ -1,0 +1,47 @@
+[
+  {
+    "id": "44a0fdce-0e88-4e3f-be9f-d9c091fc5167",
+    "data": [
+      {
+        "text": "red",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7e0423fa-7fc4-49de-aa98-c2dc33bd1cb8",
+    "data": [
+      {
+        "text": "olmaz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85013771-6b53-42a8-a71d-1d74371b5be6",
+    "data": [
+      {
+        "text": "hayir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8348baac-58fb-4764-9d1a-d386dc3b4581",
+    "data": [
+      {
+        "text": "hayır",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

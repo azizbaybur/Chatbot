@@ -1,0 +1,27 @@
+{
+  "id": "0c38756a-ff7c-4888-b9b2-ec46ab18315a",
+  "name": "Global Job Posting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Global Job Posting sistemine giriş için \u003ca href\u003d\"https://web.powerapps.com/webplayer/app?appId\u003d%2fproviders%2fMicrosoft.PowerApps%2fapps%2f439b00e3-5354-405a-9aa0-991aaec853db\"\u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: Bilgisayar kullanıcı adınız@kordsaglobal.com, Şifre: Bilgisayar açılış şifrenizdir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

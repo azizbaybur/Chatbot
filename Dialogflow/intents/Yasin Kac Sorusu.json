@@ -1,0 +1,27 @@
+{
+  "id": "7e3b79f9-6d98-4d75-92bb-98c97a919fce",
+  "name": "Yasin Kac Sorusu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "2019 Ocak ayında yaratıcım tarafından dünyaya getirildim."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

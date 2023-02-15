@@ -1,0 +1,39 @@
+{
+  "id": "2bd08a74-741e-4caf-93aa-b582167866ba",
+  "name": "Ne Nerede?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90f31f16-4446-4dfc-a890-010f59cf383d",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Kordsa\u0027da ne nerede? Öğrenmek için \u003ca href\u003d\"https://kordsaglobal-my.sharepoint.com/personal/fileport_kordsaglobal_com/Documents/Jojo%20Share/TOPLANTI%20ODALARI%20YER%20PLANI-Model.pdf\" \u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

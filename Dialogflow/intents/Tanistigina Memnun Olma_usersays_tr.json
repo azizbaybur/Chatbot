@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a29af293-0fab-4f18-b096-d995cb2137e7",
+    "data": [
+      {
+        "text": "seni tanımak güzel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a372735-cbed-4396-ae80-21a3c6802db5",
+    "data": [
+      {
+        "text": "memnun oldum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "48af6741-6c0d-4160-88e8-d29a91f72fae",
+    "data": [
+      {
+        "text": "tanıdığıma sevindim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  }
+]

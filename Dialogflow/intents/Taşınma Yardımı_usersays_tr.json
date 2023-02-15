@@ -1,0 +1,46 @@
+[
+  {
+    "id": "2ec606bf-b8f3-4763-8742-2747aaa77469",
+    "data": [
+      {
+        "text": "tasinma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0c812176-349c-43e3-850f-de852d2b537e",
+    "data": [
+      {
+        "text": "taşınma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b54789f-df68-40f6-8011-719946ba2e0f",
+    "data": [
+      {
+        "text": "tasinma yardimi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcb1cb10-5e5e-44cd-80fb-f08150133cee",
+    "data": [
+      {
+        "text": "taşınma yardımı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

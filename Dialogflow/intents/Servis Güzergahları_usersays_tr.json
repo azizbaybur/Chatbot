@@ -1,0 +1,35 @@
+[
+  {
+    "id": "641928f8-2235-4676-9c58-6756a92cf26e",
+    "data": [
+      {
+        "text": "güzergah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ae3b924-e60d-4695-b114-ab42373851d9",
+    "data": [
+      {
+        "text": "ulaşım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14dfe2eb-a125-4c51-acba-d7ce850ec312",
+    "data": [
+      {
+        "text": "servis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

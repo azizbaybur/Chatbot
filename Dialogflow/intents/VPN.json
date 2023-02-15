@@ -1,0 +1,27 @@
+{
+  "id": "c1e2b5fe-daaa-4b86-a5fe-9177c672b66c",
+  "name": "VPN",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "VPN sağlayıcısına giriş için \u003ca href\u003d\"https://vpn.kordsaglobal.com\"\u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: Bilgisayar kullanıcı adınız, Şifre: Bilgisayar açılış şifrenizdir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

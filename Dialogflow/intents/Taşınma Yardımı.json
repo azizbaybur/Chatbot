@@ -1,0 +1,27 @@
+{
+  "id": "49fba7da-0d39-44bc-b934-4347cb95d534",
+  "name": "Taşınma Yardımı",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "İş başı yapan çalışanlar eski ve yeni adreslere ait ikametgah belgelerini Emine Semerci\u0027 ye ibraz etmeleri halinde; İzmit ili içi taşınma durumlarında net 3.000 TL , İzmit ili dışı taşınmalarda net 5.000 TL tutarındaki taşınma yardımından ilk maaş döneminde faydalanırlar. İş başı tarihinden itibaren 12 ay süre içerisinde gerekli belgeleri teslim etmeyenler yardım haklarından feragat etmiş sayılırlar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

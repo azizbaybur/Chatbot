@@ -1,0 +1,27 @@
+{
+  "id": "4c890ef2-7bd1-4248-ba85-cca019c40fcc",
+  "name": "Organizasyon Şeması - Global",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Global organizasyon şemasını görüntülemek için \u003ca href\u003d\"https://kordsaglobal-my.sharepoint.com/personal/fileport_kordsaglobal_com/_layouts/15/onedrive.aspx?FolderCTID\u003d0x0120002CB1FA\u0026id\u003d%2Fpersonal%2Ffileport_kordsaglobal_com%2FDocuments%2FJojo%20Share%2FGLOBAL_ORGAN%C4%B0ZASYON%20SEMASI%2Epng\u0026parent\u003d%2Fpersonal%2Ffileport_kordsaglobal_com%2FDocuments%2FJojo%20Share\" \u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

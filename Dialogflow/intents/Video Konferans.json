@@ -1,0 +1,27 @@
+{
+  "id": "50cfce78-ca9f-4179-bf1b-1e8d0662a6e5",
+  "name": "Video Konferans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Video konferans odalarını görüntülemek için \u003ca href\u003d\"https://kordsaglobal.sharepoint.com/sites/globalsite/SitePages/videoconf.aspx\"\u003etıklayınız.\u003c/a\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

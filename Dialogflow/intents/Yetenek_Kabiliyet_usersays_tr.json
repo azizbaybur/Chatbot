@@ -1,0 +1,293 @@
+[
+  {
+    "id": "731b93ac-7a86-4d06-b6fd-95fbe3577f8b",
+    "data": [
+      {
+        "text": "Ne yaparsin peki",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "df01251b-7ad0-4acf-b23b-8b7baeb92624",
+    "data": [
+      {
+        "text": "Neler yaparsin yani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "767885eb-f5ea-4b80-b83e-f5704920e601",
+    "data": [
+      {
+        "text": "ne zaman konuşabileceksin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46d4c666-958e-4c3d-973a-56e161ced89d",
+    "data": [
+      {
+        "text": "herşeyede verilecek ",
+        "userDefined": false
+      },
+      {
+        "text": "bir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cevabın var",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9273378-41ea-4473-be04-695501597f20",
+    "data": [
+      {
+        "text": "Yetenegin var mi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31c624df-343b-4fec-a6c7-f7a19d458751",
+    "data": [
+      {
+        "text": "Yetenegin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bb59c86-7965-4926-be41-20e027eaf2b8",
+    "data": [
+      {
+        "text": "Ne ise yariyorsun sen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fa4a48d-19c8-44cb-9191-a593997be25a",
+    "data": [
+      {
+        "text": "ne yapabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56f7729f-0af6-41a1-a417-c65ed96af828",
+    "data": [
+      {
+        "text": "ne işe yararsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "37b0810d-ee52-416e-b0ef-a8768efa1eea",
+    "data": [
+      {
+        "text": "napabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "468cc39e-9615-4e2c-a1d0-e4e7afd80b78",
+    "data": [
+      {
+        "text": "EBA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24299329-3831-4813-896e-10779a271970",
+    "data": [
+      {
+        "text": "napabiliyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27bda165-7c39-46aa-ad15-35bb3c8b8b75",
+    "data": [
+      {
+        "text": "özelliğin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90ad7f89-4c94-4c5a-8a98-585b64fd6b7b",
+    "data": [
+      {
+        "text": "özellik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "26d9cb27-9877-4e44-9b94-3c84c1c8bd89",
+    "data": [
+      {
+        "text": "başka ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "220aacb8-4eed-4be7-a33f-997296d94712",
+    "data": [
+      {
+        "text": "yapabilirsin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70f43b5d-1760-4465-8098-f1eb66702db7",
+    "data": [
+      {
+        "text": "yeteneklerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "563e6586-61c2-477d-9d51-84f119314b08",
+    "data": [
+      {
+        "text": "kabiliyetlerin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "38fefea3-02db-4a97-9ff6-54f6d92b5b3f",
+    "data": [
+      {
+        "text": "yapabiliyorsun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "92861259-8156-4123-9778-5c390209fc17",
+    "data": [
+      {
+        "text": "konuşabiliyor musun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e2788845-43b6-471d-8b31-12c181084d9b",
+    "data": [
+      {
+        "text": "siri den farkın nedir ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "27a13be5-6083-4ffa-8109-845885f2f217",
+    "data": [
+      {
+        "text": "ne yaparsın",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "5148a95f-9180-4ac8-a9d0-5880f1dc8be7",
+    "data": [
+      {
+        "text": "Gökçe ile bana ",
+        "userDefined": false
+      },
+      {
+        "text": "bir",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " toplantı ayarlar mısın?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

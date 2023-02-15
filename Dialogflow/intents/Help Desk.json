@@ -1,0 +1,27 @@
+{
+  "id": "69284ec6-565e-47ce-9551-f46a54c782a6",
+  "name": "Help Desk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": "Help Desk sistemine giriş için \u003ca href\u003d\"https://usmnow.service-now.com/kordsa/\"\u003etıklayınız.\u003c/a\u003e\nKullanıcı adı: Bilgisayar kullanıcı adınız@kordsaglobal.com, Şifre: Bilgisayar açılış şifrenizdir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

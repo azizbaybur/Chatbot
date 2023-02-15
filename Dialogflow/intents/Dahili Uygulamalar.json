@@ -1,0 +1,44 @@
+{
+  "id": "4ae2aeaa-a7d3-4694-8832-70b760ddeb6d",
+  "name": "Dahili Uygulamalar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "skype",
+          "lang": "tr",
+          "title": "Hangi dahili uygulama hakkında bilgi almak istiyorsunuz?",
+          "replies": [
+            "eBA.Net",
+            "Global Job Posting",
+            "Kordsa Stars",
+            "Hr Web",
+            "IT Help Desk",
+            "Keep Online Eğitim",
+            "SPP",
+            "SHE Centrum",
+            "QDMS"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

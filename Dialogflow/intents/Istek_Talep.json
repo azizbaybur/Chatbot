@@ -1,0 +1,46 @@
+{
+  "id": "14feb18f-65ed-4756-a74f-bbfc22d2d45a",
+  "name": "Istek/Talep",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "skype",
+          "lang": "tr",
+          "title": "Dilerseniz aşağıdaki konularda yardımcı olabilirim.",
+          "replies": [
+            "Mazeret İzni Formu",
+            "Yıllık İzin Formu",
+            "Dahili Uygulamalar",
+            "Kim Kimdir?",
+            "Ne Nerede?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": [
+            "Elbette, nasıl yardımcı olabilirim?",
+            "Tabi, buyrun!",
+            "Sizi dinliyorum."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

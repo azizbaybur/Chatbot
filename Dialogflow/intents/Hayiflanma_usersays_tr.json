@@ -1,0 +1,73 @@
+[
+  {
+    "id": "9e435fc1-ff2f-4901-afa5-45bc74d1e778",
+    "data": [
+      {
+        "text": "Soru sormadım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7da8383-7bb0-42b3-815d-660f019505e3",
+    "data": [
+      {
+        "text": "aman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e10044ec-3f05-40c8-ba5d-f952e73638fc",
+    "data": [
+      {
+        "text": "of",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97d96b30-6e8e-4d84-b430-9e4f1f1dd560",
+    "data": [
+      {
+        "text": "pof",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10fcf3ee-0888-4309-9067-eee7fc7a8d69",
+    "data": [
+      {
+        "text": "poff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f8e04149-a8bd-4742-b2b7-aaab5e416064",
+    "data": [
+      {
+        "text": "önemli değil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  }
+]

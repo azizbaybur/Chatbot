@@ -1,0 +1,49 @@
+{
+  "id": "bec0e080-31bd-49da-bd19-a55af46a883e",
+  "name": "Mazeret Formu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "mazeret-saatlik",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "mazeret-gunluk",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "skype",
+          "lang": "tr",
+          "title": "Günlük Mazeret mi yoksa Saatlik Mazeret mi talep ediyorsunuz?",
+          "replies": [
+            "Günlük Mazeret",
+            "Saatlik Mazeret"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "tr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

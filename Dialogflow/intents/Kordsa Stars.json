@@ -1,0 +1,36 @@
+{
+  "id": "a43bb58f-07d0-4bce-9c13-a95762f636ba",
+  "name": "Kordsa Stars",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "skype",
+          "lang": "tr",
+          "title": "Kordsa Stars ile ilgili hangi konuda bilgi almak istiyorsunuz?",
+          "replies": [
+            "KS - Giriş yöntemi",
+            "KS - Alışveriş",
+            "KS - İK Sorumluları",
+            "KS - Sipariş Sorunu",
+            "KS - Prosedür Detayı",
+            "KS - Puantaj Sorunu"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

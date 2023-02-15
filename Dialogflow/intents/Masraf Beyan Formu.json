@@ -1,0 +1,116 @@
+{
+  "id": "84a6afb5-38fd-4dc9-b13c-48bfab3d5cae",
+  "name": "Masraf Beyan Formu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c4307b63-d057-46fa-9caf-b8f0543e8df2",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "form_tipi",
+          "value": "masraf_beyan",
+          "isList": false
+        },
+        {
+          "id": "dc5956e6-b87a-4396-8ef2-4638e96b00fb",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "sicil_no",
+          "value": "$sicil_no",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Masraf beyanı için sicil giriniz. (Örn: 8832)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e113484a-7f2e-4147-8e64-cfe1fafc7fcc",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "baslangic_tarihi",
+          "value": "$baslangic_tarihi",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Masraf tarihini belirtiniz. (Örn; 01.01.2019 / dün / bugün / yarın)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "57d779c2-3de0-4c8c-8047-fa5f565fc6ff",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "masraf_turu",
+          "value": "$masraf_turu",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Masraf türünü belirtiniz. (Örn: yol, seyahat, telefon, kırtasiye, temsil, noter, eğitim, sağlık)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "f2304d24-32f1-4fa0-bef5-30269193c482",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "masraf_yeri",
+          "value": "$masraf_yeri",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Masraf yeri belirtiniz. (Örn: G401)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0bf7312f-8da1-45fc-83bb-8c333aa2409a",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "masraf_tutari",
+          "value": "$masraf_tutar",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "Masraf tutarı belirtiniz. (Örn; 100)"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "77188546-ac13-48fa-b706-2d3873078154",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "onay_durumu",
+          "value": "$onay_durumu",
+          "prompts": [
+            {
+              "lang": "tr",
+              "value": "$sicil_no sicil numarası için masraf tarihi: $baslangic_tarihi, masraf türü: $masraf_turu , masraf yeri: $masraf_yeri ve masraf tutarı: $masraf_tutari TL olacak şekilde masraf beyan talebinizi oluşturuyorum. Onaylamak için ONAY, iptal etmek için RED yazınız."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

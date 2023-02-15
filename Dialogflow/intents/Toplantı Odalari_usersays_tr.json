@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ae6df60a-b05b-4fed-82c0-b62eb6f4f455",
+    "data": [
+      {
+        "text": "toplantı odaları",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 0
+  },
+  {
+    "id": "7ecae64d-f061-4a93-92f5-b048a777ac4d",
+    "data": [
+      {
+        "text": "toplanti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d06c2832-a150-40dc-8e63-ae3bf174469c",
+    "data": [
+      {
+        "text": "toplantı",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a77430ec-c364-4faf-8a3b-6e2c341a9dc0",
+    "data": [
+      {
+        "text": "toplantı oda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

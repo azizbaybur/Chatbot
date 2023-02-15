@@ -1,0 +1,123 @@
+[
+  {
+    "id": "bfae0931-71bc-4fef-b723-afdd304340f7",
+    "data": [
+      {
+        "text": "IT Help Desk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2c6b76c8-c316-4c37-858f-24166c6e9f78",
+    "data": [
+      {
+        "text": "it helpdesk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91044502-4dcb-41af-a1ee-bc8c802117b8",
+    "data": [
+      {
+        "text": "helpdesk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7125f274-1490-4596-a0f1-7ac341b28742",
+    "data": [
+      {
+        "text": "it incident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "adea02c4-8ad4-4f54-8942-b07459e52e44",
+    "data": [
+      {
+        "text": "it request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "732d83db-891e-414b-aef6-6b67856fd9bb",
+    "data": [
+      {
+        "text": "it talep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f871aa5-5155-4c62-a8b1-8a2dec7e662d",
+    "data": [
+      {
+        "text": "it istek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "609d6ece-b4e0-4f3e-8715-08f4d604fae7",
+    "data": [
+      {
+        "text": "it yardım",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "5a2c2a8d-2989-464b-82e1-0622b2cc8058",
+    "data": [
+      {
+        "text": "itsm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b67be7e-a61f-490a-b759-dd621275402c",
+    "data": [
+      {
+        "text": "ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "00e4ae56-6229-4240-aeef-66acc3564d0b",
+    "data": [
+      {
+        "text": "help desk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
